@@ -5,6 +5,9 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://tp-seo-nextjs-a55b.vercel.app"),
   title: "Formation informatique à Goma | Académie Numérique",
   description: "Découvrez des formations en développement web, réseaux et intelligence artificielle à Goma.",
+  verification: { 
+  google: "dJZiYxVyb60ng1x1wMqu5b7xPI1AyJq4Hq-igGUo7fs",
+  },
   alternates: { canonical: "/" },
   robots: { index: true, follow: true },
   openGraph: {
